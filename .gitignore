@@ -4,14 +4,6 @@ node_modules
 #Hardhat files
 cache
 
-
-node_modules
-.env
-
-#Hardhat files
-cache
-artifacts
-cache
 # *.json
 yarn.lock
 flatten
