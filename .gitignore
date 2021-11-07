@@ -1,0 +1,18 @@
+node_modules
+.env
+
+#Hardhat files
+cache
+artifacts
+
+node_modules
+.env
+
+#Hardhat files
+cache
+artifacts
+cache
+# *.json
+yarn.lock
+flatten
+.DS_Store
