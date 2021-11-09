@@ -2,9 +2,9 @@
 This repo contains all of the smart contracts used to run [CronaSwap](https://cronaswap.org).
 
 ## Deployed Contracts - Mainnet 
-Router address: `0x000`
+Router address: `0xcd7d16fB918511BF7269eC4f48d61D79Fb26f918`
 
-Factory address: `0x000`
+Factory address: `0x73A48f8f521EB31c55c0e1274dB0898dE599Cb11`
 
 
 ## Running
